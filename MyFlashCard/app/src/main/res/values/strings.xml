@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Flash Card</string>
+    <string name="AnswerActivityTitle">Question &#38; Answer</string>
+    <string name="buttonLeftString">See Answer</string>
+    <string name="buttonRightString">Next Question</string>
+    <string name="notificationTitle">Hello</string>
+    <string name="notificationBody">Do not Forget to Play Your Cards!</string>
+</resources>
